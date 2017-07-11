@@ -3,6 +3,6 @@ Compresses files containing standard ASCII characters using Huffman codes. Memor
 
 
 from command line:
-  make
-  ./huffman c fileToCompress.txt
-  ./huffman e fileToExtract.huff
+  'make'
+  './huffman c fileToCompress.txt'
+  './huffman e fileToExtract.huff'
